@@ -10,6 +10,10 @@ Der Inhalt beteht sich aus:
 - [Abschluss Präsentation](präsentation.pptx)
 - Ausarbeitung
 - [Matrixe von verschiedene Phasen in der Bearbeitung](https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement)
+  - [Cross Impact analyse](1-Cross-impact-analyse)
+  - [Projektion Bündelkatalog](2-Projektionbündel-katalog)
+  - [Cluster Analyse](2-Projektionbündel-katalog/Cluster-Analyse)
+  - [MDS](2-Projektionbündel-katalog/Cluster-Analyse/MDS)
 - [Benutzte Posters in der Abschluss Präsentation](Posters)
 
 ### Cross Impact Analyse
