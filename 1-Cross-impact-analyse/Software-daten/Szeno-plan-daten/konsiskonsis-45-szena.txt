@@ -1,0 +1,630 @@
+Szenario Nr. 1		Konsistenzmaﬂ: 50
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 101
+
+
+Szenario Nr. 2		Konsistenzmaﬂ: 50
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 101
+
+
+Szenario Nr. 3		Konsistenzmaﬂ: 50
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 4		Konsistenzmaﬂ: 50
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 5		Konsistenzmaﬂ: 50
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 101
+
+
+Szenario Nr. 6		Konsistenzmaﬂ: 50
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 101
+
+
+Szenario Nr. 7		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.15
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 101
+
+
+Szenario Nr. 8		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.15
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 101
+
+
+Szenario Nr. 9		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.15
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 10		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.15
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 11		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 13
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 84
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 12		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 13
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 84
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 13		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 92
+Euro NCAP: 101
+
+
+Szenario Nr. 14		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 92
+Euro NCAP: 101
+
+
+Szenario Nr. 15		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.15
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 101
+
+
+Szenario Nr. 16		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.15
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 101
+
+
+Szenario Nr. 17		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 13
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 84
+Wettbewerb: 94
+Euro NCAP: 101
+
+
+Szenario Nr. 18		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 13
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 84
+Wettbewerb: 94
+Euro NCAP: 101
+
+
+Szenario Nr. 19		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 104
+
+
+Szenario Nr. 20		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 104
+
+
+Szenario Nr. 21		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 104
+
+
+Szenario Nr. 22		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 104
+
+
+Szenario Nr. 23		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 104
+
+
+Szenario Nr. 24		Konsistenzmaﬂ: 48
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 104
+
+
+Szenario Nr. 25		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 73
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 26		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.3
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 73
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 27		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.3
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 73
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 28		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 21
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 29		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 21
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 101
+
+
+Szenario Nr. 30		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 13
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 31		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 71
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 101
+
+
+Szenario Nr. 32		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 13
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 33		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 32
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 34		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 32
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 35		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 13
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 101
+
+
+Szenario Nr. 36		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 71
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 101
+
+
+Szenario Nr. 37		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 13
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 101
+
+
+Szenario Nr. 38		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 32
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 83
+Wettbewerb: 91
+Euro NCAP: 101
+
+
+Szenario Nr. 39		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 13
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.15
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 84
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 40		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 13
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.15
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 74
+Sicherheit: 84
+Wettbewerb: 93
+Euro NCAP: 101
+
+
+Szenario Nr. 41		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 71
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 101
+
+
+Szenario Nr. 42		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 71
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 101
+
+
+Szenario Nr. 43		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 73
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 101
+
+
+Szenario Nr. 44		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 23
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.2
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 73
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 101
+
+
+Szenario Nr. 45		Konsistenzmaﬂ: 46
+
+Materialzusammensetzung: 11
+Anzahl Neuzulassungen: 22
+Ausgabebereitschaft fuer Neuwagen: 31
+cW-Wert: 0.3
+Gesamtgewicht: 51
+Kraftstoffverbrauch: 62
+Styling/Design: 73
+Sicherheit: 83
+Wettbewerb: 94
+Euro NCAP: 101
+
+

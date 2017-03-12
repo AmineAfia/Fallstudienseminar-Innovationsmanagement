@@ -1,0 +1,58 @@
+Deskriptorliste - 111111111.des
+(Stand: 13/01/2017)
+ 
+Materialzusammensetzung:
+  ªVerwendung hauptsaechlich hochfester Staehle  (0,15)
+  ªVerwendung hauptsaechlich Leichtmetalle  (0,15)
+  ªVerwendung eines ausgeglichenden Materialmix  (0,6)
+  ªEin neues anderes Material setzt sich durch  (0,1)
+
+Anzahl Neuzulassungen:
+  ªElektromotoren setzten sich durch  (0,7)
+  ªEs gibt keine dominante Antriebsart  (0,2)
+  ªEine ganz andere Antriebsart setzt sich durch   (0,1)
+
+Ausgabebereitschaft fuer Neuwagen:
+  ª40.000-49.999 euro  (0,4)
+  ª30.000-39.999 euro  (0,6)
+
+cW-Wert:
+  ª0.2  (0,6)
+  ª0.15  (0,25)
+  ª0.3  (0,15)
+
+Gesamtgewicht:
+  ª750 kg, 150 kg (20%)  Karosserie  (0,6)
+  ª1150 kg, 400 kg (35%) Karosserie  (0,3)
+  ª1300 kg, 325 kg (25%)  Karosserie  (0,1)
+
+Kraftstoffverbrauch:
+  ªDurchschnittlicher Kraftstoffverbrauch bleibt konstant bei 5,9 l/100 km (Benzin  (0,1)
+  ªDurchschnittlicher Kraftstoffverbrauch wird sinken auf 0,9l/100km  (0,2)
+  ªFahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)  (0,1)
+  ªFossiler Kraftstoff wird nicht mehr eingesetzt  (0,6)
+
+Styling/Design:
+  ªKarosserieformen werden kuehl, kantig.  (0,5)
+  ªKarosserieform ist universal, da individuell veraenderbar  (0,25)
+  ªKarosserieformen behalten heutiges Styling/Groeﬂen bei  (0,1)
+  ªKarosserieformen werden warm, geschwungen.  (0,15)
+
+Sicherheit:
+  ªKarosserie behaelt den derzeitigen Sicherheitsstand bei, aktive System wirken unterstuetzend   (0,3)
+  ªDie passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)  (0,4)
+  ªDie passive Sicherheit der Karosserie wird erhoeht, da durch Ablenkung (Infotainment) die Unfallzahlen ansteigen  (0,2)
+  ªAutonomes Fahren verhindert Unfaelle 100%ig   (0,1)
+
+Wettbewerb:
+  ªDas Angebot an Karosseriemodellen im Kleinwagenwagensegment bleibt von Konkurrenzeinfluessen unberuehrt  (0,3)
+  ªStarker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form  (0,25)
+  ªStarken Wettbewerb und Verlust von Marktanteilen fuehrt zu weiterer Diversifizierung: die Anzahl der Karos-serieformen wird von durchschnittlich 2 auf 4 im Kleinwagensegment erhoeht  (0,4)
+  ªKleinwagen ohne Wachstums-potenzial, wird nicht mehr produziert  (0,05)
+
+Euro NCAP:
+  ªCrashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie  (0,4)
+  ªKarosserie kann Crashverhalten dem Unfallpartner anpassen   (0,1)
+  ªCrashtests behalten derzeitigen Standard, zukuenftige Unfallarten werden ueber aktive Systeme abgefangen  (0,4)
+  ªTests und Crashverhalten werden nur noch fuer besonders schwere Unfallarten vorgegeben  (0,1)
+

@@ -1,0 +1,504 @@
+Szenario Nr. 4		H‰ufigkeit: 13		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 2		H‰ufigkeit: 7		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 16		H‰ufigkeit: 5		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 12		H‰ufigkeit: 4		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starken Wettbewerb und Verlust von Marktanteilen fuehrt zu weiterer Diversifizierung: die Anzahl der Karos-serieformen wird von durchschnittlich 2 auf 4 im Kleinwagensegment erhoeht
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 13		H‰ufigkeit: 3		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 750 kg, 150 kg (20%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 19		H‰ufigkeit: 3		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Fahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 11		H‰ufigkeit: 2		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 30.000-39.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 22		H‰ufigkeit: 2		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Fahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Tests und Crashverhalten werden nur noch fuer besonders schwere Unfallarten vorgegeben
+
+
+Szenario Nr. 23		H‰ufigkeit: 2		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)
+Styling/Design: Karosserieformen werden kuehl, kantig.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 26		H‰ufigkeit: 2		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Tests und Crashverhalten werden nur noch fuer besonders schwere Unfallarten vorgegeben
+
+
+Szenario Nr. 27		H‰ufigkeit: 2		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests behalten derzeitigen Standard, zukuenftige Unfallarten werden ueber aktive Systeme abgefangen
+
+
+Szenario Nr. 1		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung hauptsaechlich hochfester Staehle
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 3		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung hauptsaechlich Leichtmetalle
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 5		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung hauptsaechlich Leichtmetalle
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Tests und Crashverhalten werden nur noch fuer besonders schwere Unfallarten vorgegeben
+
+
+Szenario Nr. 6		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Ein neues anderes Material setzt sich durch
+Anzahl Neuzulassungen: Es gibt keine dominante Antriebsart
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 750 kg, 150 kg (20%)  Karosserie
+Kraftstoffverbrauch: Durchschnittlicher Kraftstoffverbrauch wird sinken auf 0,9l/100km
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passive Sicherheit der Karosserie wird erhoeht, da durch Ablenkung (Infotainment) die Unfallzahlen ansteigen
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 7		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 750 kg, 150 kg (20%)  Karosserie
+Kraftstoffverbrauch: Fahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 8		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Es gibt keine dominante Antriebsart
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 750 kg, 150 kg (20%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passive Sicherheit der Karosserie wird erhoeht, da durch Ablenkung (Infotainment) die Unfallzahlen ansteigen
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 9		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Es gibt keine dominante Antriebsart
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 750 kg, 150 kg (20%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 10		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Eine ganz andere Antriebsart setzt sich durch 
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 750 kg, 150 kg (20%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 14		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.15
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 15		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.15
+Gesamtgewicht: 750 kg, 150 kg (20%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Tests und Crashverhalten werden nur noch fuer besonders schwere Unfallarten vorgegeben
+
+
+Szenario Nr. 17		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.3
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 18		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Es gibt keine dominante Antriebsart
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 750 kg, 150 kg (20%)  Karosserie
+Kraftstoffverbrauch: Durchschnittlicher Kraftstoffverbrauch wird sinken auf 0,9l/100km
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 20		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Durchschnittlicher Kraftstoffverbrauch bleibt konstant bei 5,9 l/100 km (Benzin
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 21		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Durchschnittlicher Kraftstoffverbrauch wird sinken auf 0,9l/100km
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 24		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieform ist universal, da individuell veraenderbar
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 25		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen behalten heutiges Styling/Groeﬂen bei
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 28		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Karosserie behaelt den derzeitigen Sicherheitsstand bei, aktive System wirken unterstuetzend 
+Wettbewerb: Starken Wettbewerb und Verlust von Marktanteilen fuehrt zu weiterer Diversifizierung: die Anzahl der Karos-serieformen wird von durchschnittlich 2 auf 4 im Kleinwagensegment erhoeht
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 29		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung hauptsaechlich hochfester Staehle
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passive Sicherheit der Karosserie wird erhoeht, da durch Ablenkung (Infotainment) die Unfallzahlen ansteigen
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 30		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung hauptsaechlich hochfester Staehle
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1150 kg, 400 kg (35%) Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passive Sicherheit der Karosserie wird erhoeht, da durch Ablenkung (Infotainment) die Unfallzahlen ansteigen
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 31		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Autonomes Fahren verhindert Unfaelle 100%ig 
+Wettbewerb: Starken Wettbewerb und Verlust von Marktanteilen fuehrt zu weiterer Diversifizierung: die Anzahl der Karos-serieformen wird von durchschnittlich 2 auf 4 im Kleinwagensegment erhoeht
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 32		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Das Angebot an Karosseriemodellen im Kleinwagenwagensegment bleibt von Konkurrenzeinfluessen unberuehrt
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 33		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passive Sicherheit der Karosserie wird erhoeht, da durch Ablenkung (Infotainment) die Unfallzahlen ansteigen
+Wettbewerb: Das Angebot an Karosseriemodellen im Kleinwagenwagensegment bleibt von Konkurrenzeinfluessen unberuehrt
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 34		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starken Wettbewerb und Verlust von Marktanteilen fuehrt zu weiterer Diversifizierung: die Anzahl der Karos-serieformen wird von durchschnittlich 2 auf 4 im Kleinwagensegment erhoeht
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 35		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fahrzeug produziert und verbraucht seinen Kraftstoff selbststaendig (Strom)
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Kleinwagen ohne Wachstums-potenzial, wird nicht mehr produziert
+Euro NCAP: Crashtests werden neuen Unfallursachen angepasst und nehmen mehr Einfluss auf die Karosserie
+
+
+Szenario Nr. 36		H‰ufigkeit: 1		Konsistenzmaﬂ: 0
+
+Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
+Anzahl Neuzulassungen: Elektromotoren setzten sich durch
+Ausgabebereitschaft fuer Neuwagen: 40.000-49.999 euro
+cW-Wert: 0.2
+Gesamtgewicht: 1300 kg, 325 kg (25%)  Karosserie
+Kraftstoffverbrauch: Fossiler Kraftstoff wird nicht mehr eingesetzt
+Styling/Design: Karosserieformen werden warm, geschwungen.
+Sicherheit: Die passiven Sicherheitsanforderungen der Karosserie koennen durch aktive Sicherheitssysteme stark reduziert werden (Leichtbau  moeglich)
+Wettbewerb: Starker Wettbewerb und Verlust von Marktanteilen (ca. 2,4%) verringert die Modellvarianten der Karosserieform im Kleinwagensegment auf eine Form
+Euro NCAP: Karosserie kann Crashverhalten dem Unfallpartner anpassen 
+
+
