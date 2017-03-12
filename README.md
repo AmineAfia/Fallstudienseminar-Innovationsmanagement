@@ -1,13 +1,13 @@
 ### Fallstudienseminar Innovationsmanagement
 Dieses Repository enthänlt alle excel Tabellen, cross-impact material und benutzte Graphische in der Seminar.
 
+![electric](Posters/A1-electic-poster.jpg)
+Szenario 2
 
 ![diesel](Posters/A1-diesel-poster.jpg)
 Szenario 1
 
 
-![electric](Posters/A1-electic-poster.jpg)
-Szenario 2
 
 ### Content
 Der Inhalt beteht sich aus:
