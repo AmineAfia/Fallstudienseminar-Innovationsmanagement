@@ -9,7 +9,7 @@ Dieses Repository enthänlt alle excel Tabellen, cross-impact material und benut
 Der Inhalt beteht sich aus:
 - [Abschluss Präsentation](präsentation.pptx)
 - Ausarbeitung
-- [Matrixe von verschiedene Phasen in der Bearbeitung(https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement)
+- [Matrixe von verschiedene Phasen in der Bearbeitung](https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement)
 - [Benutzte Posters in der Abschluss Präsentation](Posters)
 
 ### Cross Impact Analyse
