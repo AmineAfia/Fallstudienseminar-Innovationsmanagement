@@ -1,14 +1,16 @@
 ### Fallstudienseminar Innovationsmanagement
 Dieses Repository enthänlt alle excel Tabellen, cross-impact material und benutzte Graphische in der Seminar.
 
+<center>
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/0zoIt"><a href="//imgur.com/0zoIt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</center>
 
 ### Content
 Der Inhalt beteht sich aus:
-- Abschluss Präsentation
+- [Abschluss Präsentation](präsentation.pptx)
 - Ausarbeitung
-- Matrixe von verschiedene Phasen in der Bearbeitung
-- Benutzte Posters in der Abschluss Präsentation
+- [Matrixe von verschiedene Phasen in der Bearbeitung(https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement)
+- [Benutzte Posters in der Abschluss Präsentation](Posters)
 
 ### Cross Impact Analyse
 To reproduce the matrix and scenarios follow this steps:
