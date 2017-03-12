@@ -10,12 +10,12 @@ Der Inhalt beteht sich aus:
 - [Abschluss Präsentation](präsentation.pptx)
 - Ausarbeitung
 - [Matrixe von verschiedene Phasen in der Bearbeitung](https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement)
-  - [Konsistanzmatrix](1-Cross-impact-analyse)
-  - [Cross Impact analyse](1-Cross-impact-analyse)
-  - [Projektion Bündelkatalog](2-Projektionbündel-katalog)
-  - [Cluster Analyse](2-Projektionbündel-katalog/Cluster-Analyse)
-  - [MDS](2-Projektionbündel-katalog/Cluster-Analyse/MDS)
-- [Benutzte Posters in der Abschluss Präsentation](Posters)
+  - [Konsistanzmatrix](https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement/blob/master/1-Cross-impact-analyse/Konsistenzmatrix.xlsx)
+  - [Cross Impact analyse](https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement/blob/master/1-Cross-impact-analyse/Cross-Impact-Matrix.xlsx)
+  - [Projektion Bündelkatalog](https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement/blob/master/2-Projektionb%C3%BCndel-katalog/Projektionsb%C3%BCndelkatalog.xlsx)
+  - [Cluster Analyse](https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement/tree/master/2-Projektionb%C3%BCndel-katalog/Cluster-Analyse)
+  - [MDS](https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement/tree/master/2-Projektionb%C3%BCndel-katalog/Cluster-Analyse/MDS)
+- [Benutzte Posters in der Abschluss Präsentation](https://github.com/AmineAfia/Fallstudienseminar-Innovationsmanagement/tree/master/Posters)
 
 ### Cross Impact Analyse
 To reproduce the matrix and scenarios follow this steps:
